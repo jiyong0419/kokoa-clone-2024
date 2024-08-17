@@ -1,3 +1,3 @@
 # Kokoa Clone 2024 Version
 
-CSS got so much better!
+HTML & CSS got so much fun!
