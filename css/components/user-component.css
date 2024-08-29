@@ -28,6 +28,12 @@
   color: rgba(0, 0, 0, 0.5);
 }
 
+.user-component__subtitle .warning-icon {
+  color: tomato;
+  margin-left: 5px;
+  font-size: 16px;
+}
+
 .user-component__avatar--xl {
   width: 80px;
   height: 80px;
